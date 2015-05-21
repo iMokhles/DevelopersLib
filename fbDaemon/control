@@ -1,0 +1,10 @@
+Package: com.imokhles.fbDeamon
+Name: fbDeamon
+Depends: com.rpetrich.rocketbootstrap
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Port of H2CO3's Unbox for iOS 7/8 with arm64 support
+Maintainer: iMokhles
+Author: iMokhles
+Section: System
+Tag: role::Developer
