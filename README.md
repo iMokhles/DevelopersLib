@@ -37,12 +37,16 @@ this is an iMoDevTools clone for everyone :), so i created this for those needs 
 * add developer profile page
 * 
 
-#Thanks
+#Special Thanks
+
+[@PixelFireDev](https://twitter.com/PixelFireDev) - for there hard work and advices
 
 [@H2CO3](https://github.com/H2CO3) - for his hard work in [UnBox](https://github.com/H2CO3/Unbox)<br>
 [@honkmaster](https://github.com/honkmaster) - for his hard work in [TTOpenInAppActivity](https://github.com/honkmaster/TTOpenInAppActivity)<br>
 [@relatedcode](https://github.com/relatedcode) - for his hard work in [ProgressHUD](https://github.com/relatedcode/ProgressHUD)<br>
-[@PixelFireDev](https://twitter.com/PixelFireDev) - for there hard work and advices
+[@alexruperez](https://github.com/alexruperez) - for his hard work in [ARSpeechActivity](https://github.com/alexruperez/ARSpeechActivity)<br>
+[@tapsquare](https://github.com/tapsquare) - for his hard work in [TSLibraryImport](https://github.com/tapsquare/TSLibraryImport)<br>
+
 
 
 Copyright (c) 2015 Mokhlas Hussein (iMokhles), all rights reserved.
