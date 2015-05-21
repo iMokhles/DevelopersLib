@@ -1,10 +1,11 @@
 Package: com.imokhles.developerslib
 Name: DevelopersLib
 Depends: 
-Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An advanced library for developers!!
+Description: An awesome library for developers!!
 Maintainer: iMokhles
 Author: iMokhles
 Section: System
 Tag: role::developer
+Version: 0.0.1-5
+Installed-Size: 1200
