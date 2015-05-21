@@ -35,7 +35,8 @@ this is an iMoDevTools clone for everyone :), so i created this for those needs 
 * add font picker
 * add update notification system for tweaks
 * add developer profile page
-* 
+* others methods ( i don't remember for now )
+* feel free to pull request with new methods, improvements.
 
 #Special Thanks
 
