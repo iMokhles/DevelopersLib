@@ -30,8 +30,19 @@ this is an iMoDevTools clone for everyone :), so i created this for those needs 
 | color picker for preferences                   |    YES    |
 | send email to developer                        |    YES    |
 
+#Build Instructions
+
+* build fbDaemon 
+* get libdeveloperslibfb.dylib and place it in $THEOS/lib
+* now you can build the DevelopersLib normally
+
+# Supports
+
+* iOS8
+
 #Todo
 
+* add support of iOS7 and early versions 
 * add font picker
 * add update notification system for tweaks
 * add developer profile page
