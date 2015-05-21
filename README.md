@@ -47,7 +47,7 @@ this is an iMoDevTools clone for everyone :), so i created this for those needs 
 [@relatedcode](https://github.com/relatedcode) - for his hard work in [ProgressHUD](https://github.com/relatedcode/ProgressHUD)<br>
 [@alexruperez](https://github.com/alexruperez) - for his hard work in [ARSpeechActivity](https://github.com/alexruperez/ARSpeechActivity)<br>
 [@tapsquare](https://github.com/tapsquare) - for his hard work in [TSLibraryImport](https://github.com/tapsquare/TSLibraryImport)<br>
-
+[@RSully](https://github.com/RSully) - for his hard work in [RSColorPicker](https://github.com/RSully/RSColorPicker)<br>
 
 
 Copyright (c) 2015 Mokhlas Hussein (iMokhles), all rights reserved.
