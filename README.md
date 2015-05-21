@@ -30,4 +30,4 @@ this is an iMoDevTools clone for everyone :), so i created this for those needs 
 | color picker for preferences                   |    YES    |
 | send email to developer                        |    YES    |
 
-
+Copyright (c) 2015 Mokhlas Hussein (iMokhles), all rights reserved.
