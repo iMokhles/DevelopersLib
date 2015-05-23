@@ -3,7 +3,6 @@ THEOS_DEVICE_PORT=22
 GO_EASY_ON_ME=1
 #ADDITIONAL_CFLAGS = -fobjc-arc
 
-MODULES = nahm8
 THEOS_BUILD_DIR = debs
 
 include theos/makefiles/common.mk
